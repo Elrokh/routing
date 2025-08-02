@@ -1,0 +1,20 @@
+.details {
+  background-color: var(--second-color);
+}
+.form-group input {
+  margin-left: 30%;
+}
+.form-control {
+  width: 40%;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  box-shadow: none;
+}
+.form-group label {
+  margin-left: 30%;
+}
+button {
+  margin-left: 30%;
+  width: 15%;
+}

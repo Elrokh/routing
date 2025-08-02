@@ -1,0 +1,13 @@
+h1 {
+  font-weight: bold;
+}
+nav {
+  font-weight: bold;
+}
+nav {
+  background-color: var(--second-color);
+}
+.nav-link {
+  border-radius: 16px;
+  margin: 0 10px;
+}
